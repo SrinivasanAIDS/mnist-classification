@@ -121,6 +121,7 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 ![image](https://user-images.githubusercontent.com/103049243/195970368-5d2c3ff9-129d-4815-a574-54a803c90301.png)
 
 ### Classification Report
+
 ![image](https://user-images.githubusercontent.com/103049243/195970380-e8304d98-1600-4d5c-a9b8-68ec3e06b795.png)
 
 ### Confusion Matrix
@@ -129,6 +130,7 @@ plt.imshow(img_28_gray_scaled.reshape(28,28),cmap='gray')
 
 ### New Sample Data Prediction
 
+![image](https://user-images.githubusercontent.com/103049243/201094524-f1ee18f6-adc1-4688-ab60-b2b804304179.png)
 ![image](https://user-images.githubusercontent.com/103049243/195970415-5b83ea12-9025-4d2f-9269-a3d8a5bdce68.png)
 
 ## RESULT
